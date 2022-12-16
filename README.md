@@ -1,6 +1,6 @@
 - 👋 Hi, I am Annu Kumari
 - 👀 I’m interested in Coding and Web development.
-- 🌱 I’m currently learning React js.
+- 🌱 I’m currently working with Angular.
 - 💞️ I’m looking to collaborate for web development projects.
 - 📫 You can reach me through my gmail annukmri.ak@gmail.com or via linkedin profile- linkedin.com/in/annu-kumari-a2ab9a123
 
